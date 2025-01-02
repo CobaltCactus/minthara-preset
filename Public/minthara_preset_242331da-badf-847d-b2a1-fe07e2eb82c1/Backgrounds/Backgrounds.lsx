@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Backgrounds">
+        <node id="root">
+            <children>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="h17d22f2dg8379g88e8ge27fg42c7164fbaf2" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5b0f9230g243fg625eg1b18g4a314c962749" version="1"/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="Passives" type="LSString" value="Background_UnderdarkExile"/>
+                    <attribute id="UUID" type="guid" value="38a3fe7a-59f4-4dbf-88e1-6e9b62e74ff1"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="22097482-335b-43bb-9eb0-55fa7883b1e6"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="242331da-badf-847d-b2a1-fe07e2eb82c1"/>
+            <attribute id="Name" type="LSString" value="minthara_preset"/>
+            <attribute id="UUID" type="LSString" value="588e7baa-1f73-b553-36dc-31f74dfd5bd7"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
